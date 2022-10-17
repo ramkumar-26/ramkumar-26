@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramkumar
 - 👀 I’m interested in Backend Development, Cloud
-- 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to collaborate on finance realted projects
+- 🌱 I’m currently learning SpringBoot, Java 8, DSA
+- 💞️ I’m looking to collaborate on any Backend development with SpringBoot
 - 📫 How to reach me -> email: ramkumar.ds26@gmail.com, LinkedIn: https://www.linkedin.com/in/connect-with-ramkumar/
 
 <!---

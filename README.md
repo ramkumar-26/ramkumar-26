@@ -9,7 +9,7 @@
 
 
 
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=ramkumar-26)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=ramkumar-26)](https://git.io/streak-stats)
 
 <!---
 ramkumar-26/ramkumar-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

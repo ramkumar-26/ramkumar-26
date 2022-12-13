@@ -1,13 +1,13 @@
 [![MasterHead](https://gstarinfotech.com/wp-content/uploads/2018/01/java.gif)](https://ramkumar-26.io)
 <h1 align="center">Hi 👋, I'm Ramkumar</h1>
 <h3 align="center">An Enthusiastic Java Backend developer from Chennai, India</h3>
-<img align="right" alt="coding" width="300" src = "https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
+<img align="right" alt="coding" width="300" height="100" src = "https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumar-26&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumar-26" /> </p>
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate, MySql**
+- 🌱 Learning **Java, Spring, Hibernate, MySql**
 
 - 👯 I’m looking to collaborate on **any open source java project**
 

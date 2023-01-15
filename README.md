@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumar-26&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumar-26" /> </p>
 
+
+- :smile:  I'm an enthusiastic Java Developer with a passion for developing scalable applications that will interact with the front-end of the application.
+- :heart_decoration: Interested in Technology, Music 
 - 🔭 I’m currently working on **improving my skills**
 
 - 🌱 Learning **Java, Spring, Hibernate, MySql**
